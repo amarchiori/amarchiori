@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I started as a Graphic Design Major and grew passionate with coding over the years. I started slowly with HTML, CSS, JavaScript and most recently I have been working on projects in React.
+I started as a Graphic Design Major and grew passionate with coding over the years. I started slowly with HTML, CSS, JavaScript and most recently I have been working on projects in React and Nextjs.
 
-* 🌍  I'm based in St Petersburg, Florida
+* 🌍  I'm based in St Petersburg, Florida soon moving to North Beach, Maryland
 * ✉️  You can contact me at [amarchiori.web@gmail.com](mailto:amarchiori.web@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Nextjs
 
 ### Skills
 
