@@ -4,11 +4,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I started as a Graphic Design Major and grew passionate with coding over the years. I started slowly with HTML, CSS, JavaScript and most recently I have been working on projects in Nextjs.
+Passionate about navigating the intersection of technology and business to propel organizational success, I am a meticulous and Certified Salesforce Associate with a proven 3-year track record as a Sales Representative. My commitment to delivering top-notch customer service has consistently surpassed sales targets.
 
-* 🌍  I'm based in St Petersburg, Florida soon moving to North Beach, Maryland
+* 🌍  I'm based in North Beach, Maryland
 * ✉️  You can contact me at [amarchiori.web@gmail.com](mailto:amarchiori.web@gmail.com)
-* 🧠  I'm learning SQL
+
+💻 Tech Enthusiast: Beyond sales, I boast a robust understanding of front-end development, actively engaging in HTML, CSS, React.js, and Next.js projects. Bridging the gap between technology and business is my forte.
+
+📊 CRM Analytics Journey: Currently honing my skills in SQL for CRM analytics, I am dedicated to staying ahead of the curve and contributing meaningfully to data-driven decision-making.
+
+🔍 Attention to Detail: As a meticulous individual, I thrive in ensuring precision and accuracy, vital for optimizing processes and delivering quality results.
+
+🌐 Certified Salesforce Associate: Armed with profound knowledge in Salesforce, I bring a tech-savvy approach to sales, streamlining workflows for maximum efficiency.
+
+🌟 Customer Service Excellence: Committed to providing exceptional customer experiences, I recognize the significance of building lasting relationships and ensuring satisfaction at every touchpoint.
+
+Let's connect and explore how my unique blend of Salesforce expertise, sales acumen, and tech proficiency can elevate your team's success. Open to exciting opportunities and collaborations!
+
+
 
 ### Skills
 
