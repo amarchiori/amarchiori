@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alessandra Marchiori
 ============================================================================================================================================
 
-Frontend Developer
+Frontend Developer | Salesforce Professional 
 ------------------
 
-Passionate about navigating the intersection of technology and business to propel organizational success, I am a meticulous and Certified Salesforce Associate with a proven 3-year track record as a Sales Representative. My commitment to delivering top-notch customer service has consistently surpassed sales targets.
+Passionate about navigating the intersection of technology and business to propel organizational success, I am a meticulous and Salesforce Certified Administrator with a proven 3-year track record as a Sales Representative. My commitment to delivering top-notch customer service has consistently surpassed sales targets.
 
 * 🌍  I'm based in North Beach, Maryland
 * ✉️  You can contact me at [amarchiori.web@gmail.com](mailto:amarchiori.web@gmail.com)
@@ -15,7 +15,7 @@ Passionate about navigating the intersection of technology and business to prope
 
 🔍 Attention to Detail: As a meticulous individual, I thrive in ensuring precision and accuracy, vital for optimizing processes and delivering quality results.
 
-🌐 Certified Salesforce Associate: Armed with profound knowledge in Salesforce, I bring a tech-savvy approach to sales, streamlining workflows for maximum efficiency.
+🌐 Certified Salesforce Administrator: Armed with knowledge in Salesforce, I bring a tech-savvy approach to sales, streamlining workflows for maximum efficiency.
 
 🌟 Customer Service Excellence: Committed to providing exceptional customer experiences, I recognize the significance of building lasting relationships and ensuring satisfaction at every touchpoint.
 
